@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(to left,rgb(204, 186, 113),rgb(226, 201, 77),rgba(201, 162, 5, 0.373));
+}
+a:hover,
+a:active {
+    color: purple;
+}
+table,
+tr,
+th,
+td,
+caption {
+    border: 2px solid #000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0.5rem;
+    border-collapse: collapse;
+
+}
+figcaption{
+    text-align: center;
+}
